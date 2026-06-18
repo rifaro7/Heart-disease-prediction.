@@ -118,9 +118,9 @@ See `requirements.txt` for pinned versions.
 
 ## 👤 Author
 
-**[Your Name]**
-Course: [Course Name / Code]
-Institution: [Your University]
+Rifa Tasnim Roza
+
+Institution: East West University
 
 ---
 
